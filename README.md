@@ -1,2 +1,3 @@
 # SDEV140-M06-Programming-Assignment
  
+This program creates a GUI-based window in tkinter, and the user provides a temperature.  The program displays 2 buttons, a Celsius and a Farenheit button.  When the user clicks the Celsius button, the program converts the temperature to celsius and displays it.  When the user clicks the Farenheit button, the program converts the temperature to fahrenheit and displays it.
